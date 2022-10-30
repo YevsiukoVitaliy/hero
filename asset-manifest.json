@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hero/static/css/main.4afc515b.css",
+    "main.js": "/hero/static/js/main.5d4f2e07.js",
+    "index.html": "/hero/index.html",
+    "main.4afc515b.css.map": "/hero/static/css/main.4afc515b.css.map",
+    "main.5d4f2e07.js.map": "/hero/static/js/main.5d4f2e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afc515b.css",
+    "static/js/main.5d4f2e07.js"
+  ]
+}
